@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-02-21.md",
+                "file": "离散数学/第一次课.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "2023-02-21.md",
+            "file": "离散数学/第一次课.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "2023-02-21.md",
+            "file": "离散数学/第一次课.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "2023-02-21.md"
+            "file": "离散数学/第一次课.md"
           }
         }
       },
@@ -132,6 +132,7 @@
   "active": "ae7bca82a51e72e3",
   "lastOpenFiles": [
     "README.md",
+    "2023-02-21.md",
     "离散数学/第一次课.md",
     "证券投资学/第一次课.md",
     "未命名.md"
